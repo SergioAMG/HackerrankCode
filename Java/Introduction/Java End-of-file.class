@@ -1,0 +1,25 @@
+import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
+
+public class Solution {
+
+    public static void main(String[] args) {
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+        
+        Scanner scanner = new Scanner(System.in);
+        int lineCounter = 1;
+        List<String> output = new ArrayList<String>();
+        while(scanner.hasNext())
+        {
+            output.add(lineCounter + " " + scanner.nextLine());
+            lineCounter++;
+        }
+        scanner.close();
+        for(String item : output){
+            System.out.println(item);
+        }
+    }
+}

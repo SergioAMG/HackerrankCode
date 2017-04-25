@@ -1,0 +1,12 @@
+
+    // whatever code is needed for initialization goes here       
+
+    public static Scanner scanner = new Scanner(System.in);
+    public static int B = scanner.nextInt();
+    public static int H = scanner.nextInt();
+
+    public static boolean flag = (B>0 && B<=100 && H >0 && H<=100) ? true : false;
+
+    static{
+        if(!flag){ System.out.print("java.lang.Exception: Breadth and height must be positive"); }
+    }
