@@ -3,7 +3,7 @@
 HackerrankCode wrote for practicing and competing as well.
 Code has been written in c# as personal preference and due at the lack of this language in the open source community.
 
-# Xamarin Fors Technical Test Answer Summary
+# Xamarin Forms Technical Test Answer Summary
 
 + Application name: properdo
 + Platform and Technologies used: Xamarin Forms 2.4 and C# .NET 4.5 (support for native Android and IOS)
