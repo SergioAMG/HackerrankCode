@@ -16,7 +16,8 @@ Code has been written in c# as personal preference and due at the lack of this l
   a) Android 5.1
   b) IOS 10.2
 + Support for tablets: Yes, Android and IPad emulators tested.
-+ Missing functionality: Photo and Images (time restrictions and not tech limitations).
++ Missing functionality: Photo/Images (time restrictions and not tech limitations) and Search capabilities.
++ NuGet packages used: Azure Mobile Client, NewtonSoft Json, Xamarin Forms.
 + Overall Success rate: 90%
 + Time consumed: 12+ hours:
 + Time break down: 
@@ -32,4 +33,5 @@ Code has been written in c# as personal preference and due at the lack of this l
   c) Multiple new plugins added to the app code.
   d) Delete tasks support added.
   e) Running app screenshoots attached.
+ + Improvements Suggestion: To implement push notification services into the app for keeping the users group informed about changes on taks.
   
