@@ -22,7 +22,7 @@ Code has been written in c# as personal preference and due at the lack of this l
 + Time break down: 
   a) (4hrs) Create project, configure dependencies, create Azure mobile service, setting up Databases and configure basic Listview.
   b) (4hrs) Create Edit, Delete, View and Update functionalities.
-  c) (3hrs) Create multiple views (3) for the main listview so it can display Completed, Procesing and All items by using the menu bar.
+  c) (3hrs) Create multiple views three for the main listview so it can display Completed, Procesing and All items by using the menu bar.
   d) (2Hrs) Enhancing visual UI styles and create same consistent  Look-and-Feel for Android and IOS.
  + Extra time:
   a) (2hrs) Publish finall code to GitHub, create report for READE.txt doc, last minute error check and email creation.
