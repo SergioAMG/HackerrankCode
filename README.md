@@ -15,10 +15,9 @@ Code has been written in c# as personal preference and due at the lack of this l
 + Tested on emulators: 2
   a) Android 5.1
   b) IOS 10.2
-+ Support for tablets: Yes, Android and IPad emulators tested.
++ Support for Tablets: Yes, Android and IPad tablet emulators tested.
 + Missing functionality: Photo/Images (time restrictions and not tech limitations) and Search capabilities.
 + NuGet packages used: Azure Mobile Client, NewtonSoft Json, Xamarin Forms.
-+ Overall Success rate: 90%
 + Time consumed: 12+ hours:
 + Time break down: 
   a) (4hrs) Create project, configure dependencies, create Azure mobile service, setting up Databases and configure basic Listview.
@@ -33,5 +32,6 @@ Code has been written in c# as personal preference and due at the lack of this l
   c) Multiple new plugins added to the app code.
   d) Delete tasks support added.
   e) Running app screenshoots attached.
+  f) Support for Tablets: Yes, Android and IPad tablet emulators tested.
  + Improvements Suggestion: To implement push notification services into the app for keeping the users group informed about changes on taks.
   
